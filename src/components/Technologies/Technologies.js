@@ -1,5 +1,6 @@
 import React from "react";
-import { DiFirebase, DiReact, DiCssTricks } from "react-icons/di";
+import { DiFirebase, DiReact, DiCssTricks, DiAtlassian } from "react-icons/di";
+import { GiBigGear } from "react-icons/gi";
 import {
   Section,
   SectionDivider,
@@ -49,6 +50,28 @@ const Technologies = () => (
           <ListParagraph>
             Experienced with <br />
             Adobe XD, Figma and Canva
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+
+      <ListItem>
+        <DiAtlassian size="3rem" />
+        <ListContainer>
+          <ListTitle>Project Management</ListTitle>
+          <ListParagraph>
+            Experienced with <br />
+            Atlassian
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+
+      <ListItem>
+        <GiBigGear size="3rem" />
+        <ListContainer>
+          <ListTitle>Automations</ListTitle>
+          <ListParagraph>
+            Experienced in <br />
+            UI Path
           </ListParagraph>
         </ListContainer>
       </ListItem>

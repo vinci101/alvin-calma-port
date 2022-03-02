@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Wertuu",
     description:
-      "This app shows the heatmap or current population of a specific place a a specific time",
+      "A webapp shows the heatmap or current population of a specific place at a given time. This can be used for you to be able to plan your trips accordingly",
     image: "/images/wertuu.png",
     tags: ["React", "Node"],
     source: "https://google.com",
@@ -22,7 +22,7 @@ export const projects = [
   {
     title: "Strength Club",
     description:
-      "This is an online training log that can be used in both browser and mobile",
+      "An online training log that can be used in both browser and mobile. Fully customizable, easy to use and mobile friendly",
     image: "/images/strength.png",
     tags: ["React", "JQuery"],
     source: "https://google.com",
@@ -51,5 +51,5 @@ export const TimeLineData = [
 
 export const ProjectData = [
   { number: 3, text: "Live Projects" },
-  { number: 3, text: "Personal Projects" },
+  { number: 5, text: "On-going Personal Projects" },
 ];

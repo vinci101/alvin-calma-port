@@ -12,7 +12,7 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Hi I'm Alvin Calma
+        Hi, I'm Alvin Calma
         <br /> Welcome to my portfolio
       </SectionTitle>
 
