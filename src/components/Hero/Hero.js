@@ -12,16 +12,13 @@ const Hero = () => (
   <Section row nopadding>
     <LeftSection>
       <SectionTitle main center>
-        Welcome To
-        <br /> My Personal Portfolio
+        Hi I'm Alvin Calma
+        <br /> Welcome to my portfolio
       </SectionTitle>
 
       <SectionText>Let's build and grow together</SectionText>
       <Button
-        onClick={() =>
-          (window.location =
-            "https://mail.google.com/mail/u/1/?pli=1#inbox?compose=new")
-        }
+        onClick={() => (window.location = "mailto: alvin.l.calma.ac@gmail.com")}
       >
         Learn More
       </Button>
