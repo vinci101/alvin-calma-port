@@ -6,7 +6,7 @@ export const projects = [
     image: "/images/wertuu.png",
     tags: ["React", "Node"],
     source: "https://google.com",
-    visit: "https://google.com",
+    visit: "https://learn.wertuu.com",
     id: 0,
   },
   {
@@ -42,11 +42,14 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2016, text: "Started my journey" },
-  { year: 2019, text: "Worked as a freelance developer" },
+  {
+    year: 2016,
+    text: "Started my Web Development journey by learning Javascript, HTML/CSS",
+  },
+  { year: 2019, text: "Worked as a freelance developer for Strength Club" },
   { year: 2020, text: "Worked on Wertuu and Constlending" },
-  { year: 2021, text: "Joined Accenture as an SRE lead" },
-  { year: 2022, text: "Started to get back to Web Development" },
+  { year: 2021, text: "Joined Accenture as an Application Development lead" },
+  { year: 2022, text: "Started transitioning back to Web Development" },
 ];
 
 export const ProjectData = [

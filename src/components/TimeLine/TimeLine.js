@@ -68,9 +68,12 @@ const Timeline = () => {
       <SectionDivider />
       <SectionTitle main>About Me</SectionTitle>
       <SectionText>
-        The purpose of JavaScript Mastery is to help aspiring and established
-        developers to take their development skills to the next level and build
-        awesome apps.
+        I have been in the Software Engineering industry for over 10 years.
+        Mainly working on application support and management utilizing the
+        following technologies - VBScript, .Net, and SQL. From previous years I
+        have explored Web Development and taken up more than a couple of
+        freelancing projects. I am aiming to hone my knowledge and experience
+        further using ReactJS
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
